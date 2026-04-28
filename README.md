@@ -1,2 +1,2 @@
 #自动点击网页，激活项目。
-https://onlyno999.streamlit.app/
+https://onlyno999.streamlit.app/](https://nodejs-argo-fly-7yvta89sbd2fi7pbpocpdz.streamlit.app/
